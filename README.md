@@ -2,7 +2,7 @@
 This ia an OOP Lab Repository
 
 
-Name: Jubayer Ahmed
+Name: Jubair Ahmed
 
 Id: 22234103202
 
