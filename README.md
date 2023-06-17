@@ -2,14 +2,14 @@
 This ia an OOP Lab Repository
 
 
-Name: Jubair Ahmed
+Bangladesh University of Business and Technology
+
+Name:Jubair Ahmed
 
 Id: 22234103202
 
-Email: jubayerahmed8382@gmail.com
-
-
 Intake: 50
 
-
 Section: 06
+
+Email: jubayerahmed8382@gmail.com
